@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-takaful-policy-administration
+description: "BIAN Service Domain: Takaful Policy Administration (Administer pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - administer
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Takaful"
+  isb/asset-type: "Takaful Certificate"
+  isb/control-record: "Takaful Certificate Administrative Plan"
